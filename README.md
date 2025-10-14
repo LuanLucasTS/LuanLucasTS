@@ -15,6 +15,7 @@ Sou uma pessoa muito curiosa com um grande desejo de explorar este mundo e fazer
 
 
 <h3>🚀 Tecnologias e Ferramentas</h3>
+<img width="33%" align='right' src="https://github.com/LuanLucasTS/LuanLucasTS/blob/main/img/2.png">
 
 ---
 
@@ -26,7 +27,7 @@ Sou uma pessoa muito curiosa com um grande desejo de explorar este mundo e fazer
   
 ---
 
-## 📈 O que estou aprendendo
+<h3>📈 O que estou aprendendo</h3> 
 - Infraestrutura como Código (IaC)
 - Cloud Computing e Containers
 - CI/CD e Observabilidade
