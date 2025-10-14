@@ -1,8 +1,13 @@
 <p align="center"><img width="100%" src="https://github.com/LuanLucasTS/LuanLucasTS/blob/main/img/banner.png"></p>
+<h3 align="center">Sempre à procura por novas tecnologias💡🐧🪟🖥️🎮🚀<p align="center"></h3>
 
+## Olá, eu sou o Luan 👋
 
-## Hi there 👋
-
+Sou **DevOps/Analista de Servidor**, um entusiasta de tecnologia e apaixonado por games 🕹️! 
+Desde cedo, sempre me vi imerso no mundo digital, seja descobrindo novas ferramentas ou acompanhando de perto as inovações mais recentes. 🧑‍🚀
+Meu propósito? Implementar ferramentas que façam uma diferença real na vida das pessoas! 🔥
+Adoro trabalhar ferramentas de código aberto ❤️
+Sou uma pessoa muito curiosa com um grande desejo de explorar este mundo e fazer algo grandioso que possa melhorar a vida de muitas pessoas e deixar minha marca no mundo. 🌎
 <!--
 **LuanLucasTS/LuanLucasTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
