@@ -1,4 +1,3 @@
-<p align="center"><img width="100%" src="https://github.com/LuanLucasTS/LuanLucasTS/blob/main/img/top.png"></p>
 <p align="center"><img width="100%" src="https://github.com/LuanLucasTS/LuanLucasTS/blob/main/img/banner.png"></p>
 
 
