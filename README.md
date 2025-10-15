@@ -43,8 +43,33 @@ Sou uma pessoa muito curiosa com um grande desejo de explorar este mundo e fazer
 
 ## 📊 Estatísticas do GitHub
 
-![Luan Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanLucasTS&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanLucasTS&layout=compact&theme=github_dark)
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanLucasTS&show_icons=true&theme=tokyonight" alt="Luan Lucas GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanLucasTS&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs"/>
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuanLucasTS&theme=tokyonight" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuanLucasTS&hide=Html&theme=tokyonight" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuanLucasTS&theme=tokyonight" height="180em"/>
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanLucasTS&theme=tokyonight" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuanLucasTS&theme=tokyonight&hide_border=false" width="100%"/>
+
+</div>
+
+
 
 ---
 
@@ -55,3 +80,4 @@ Sou uma pessoa muito curiosa com um grande desejo de explorar este mundo e fazer
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/LuanLucasTS)
 
 ---
+
