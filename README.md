@@ -19,19 +19,19 @@ Sou uma pessoa muito curiosa com um grande desejo de explorar este mundo e fazer
 
 ---
 
-- **Linux** | **Windows Server**
-- **Docker** | **Python** | **SQL**
-- **Redes de Computadores**
-- **Desenvolvimento Web**
-- **Automação & DevOps**
+- **Linux**🐧 | **Windows Server**🪟
+- **Docker**🐋 | **Python** 🐍| **SQL**🐬
+- **Redes de Computadores**🌎
+- **Desenvolvimento Web**🛜
+- **Automação & DevOps**♾️
   
----
 
 <h3>📈 O que estou aprendendo</h3> 
-- Infraestrutura como Código (IaC)
-- Cloud Computing e Containers
-- CI/CD e Observabilidade
-- Segurança em Ambientes DevOps
+
+- **Infraestrutura como Código (IaC)**
+- **Cloud Computing e Containers**
+- **CI/CD e Observabilidade**
+- **Segurança em Ambientes DevOps**
   
   ---
 
