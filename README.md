@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="https://github.com/LuanLucasTS/LuanLucasTS/blob/main/img/banner.png"></p>
+<p align="center"><img width="100%" src="https://i.imgur.com/fANP8jq.png"></p>
 <h3 align="center">Sempre à procura por novas tecnologias💡🐧🪟🖥️🎮🚀<p align="center"></h3>
 
 
@@ -7,7 +7,7 @@
 
 ---
 
-<img width="33%" align='right' src="https://github.com/LuanLucasTS/LuanLucasTS/blob/main/img/1.png"> <br>
+<img width="33%" align='right' src="https://i.imgur.com/IfV2PtN.png"> <br>
 
 Sou **DevOps Engineer** e **Analista de Servidores**, um entusiasta de tecnologia e apaixonado por games! 🕹️<br>
 Desde cedo, sempre me vi imerso no mundo digital, seja descobrindo novas tecnologias ou acompanhando de perto as inovações mais recentes. 🧑‍🚀<br>
@@ -20,7 +20,7 @@ Sou uma pessoa muito curiosa com um grande desejo de explorar este mundo e fazer
 
 ---
 
-<img width="33%" align='right' src="https://github.com/LuanLucasTS/LuanLucasTS/blob/main/img/2.png">
+<img width="33%" align='right' src="https://i.imgur.com/PrWFG8T.png">
 
 - **Linux** 🐧
 - **Windows Server** 🪟
