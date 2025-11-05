@@ -65,7 +65,6 @@ Sou uma pessoa muito curiosa com um grande desejo de explorar este mundo e fazer
 <div align="center">
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanLucasTS&theme=tokyonight" width="100%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuanLucasTS&theme=tokyonight&hide_border=false" width="100%"/>
 
 </div>
 
