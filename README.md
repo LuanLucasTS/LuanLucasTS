@@ -74,9 +74,9 @@ Sou uma pessoa muito curiosa com um grande desejo de explorar este mundo e fazer
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luan-lucas-silva-443622128/)
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:luanlucascorp@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/LuanLucasTS)
+[![Linktree](https://img.shields.io/badge/Linktree-black?style=for-the-badge&logo=linktree)](https://linktr.ee/luan_lucas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luan-lucas-silva-443622128/)
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:luanlucascorp@gmail.com)
 
 ---
 
